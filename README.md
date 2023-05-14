@@ -1,1 +1,1 @@
-have to change the name of this project form finance tracker to expence tracker
+ico is actually being used so do not delete it 
